@@ -66,7 +66,7 @@ A mobile application developed with Flutter and Dart, designed to help users man
 5. **Splash Screen:** The app starts with a splash screen before navigating to the main task list.
 
 ## Project Structure
-
+![TaskNote App](images/tsk1.png) 
 ### Components
 
 - **main.dart:** Entry point of the application that sets up the app and routes.
@@ -76,7 +76,9 @@ A mobile application developed with Flutter and Dart, designed to help users man
 - **todo_list_screen.dart:** Displays the list of tasks and handles user interactions.
 
 ## Screenshots
-
+![TaskNote App](images/tsk2.jpg) 
+![TaskNote App](images/tsk3.jpg) 
+![TaskNote App](images/tsk4.jpg) 
 ## Contribution
 
 If you have suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
